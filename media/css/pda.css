@@ -1,0 +1,55 @@
+body {
+	font:13px Verdana, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	font-size:16px;
+	line-height:18px;
+	color:#cf0000;
+}
+
+h2 {
+	margin-bottom:10px;
+	font-size:14px;
+	color:#cf0000;
+}
+
+#wrapper {
+	max-width:100%;
+	width:100%;
+}
+
+#header {
+	position:relative;
+	height:25px;
+	margin-bottom:10px;
+}
+
+#menu {
+	margin:0 0 10px 0;
+	text-align:left;
+}
+
+#footer {
+	max-width:100%;
+	width:100%;
+}
+
+.tale {
+	margin:0 0 10px 0;
+}
+
+.pager {
+	margin:5px;
+}
+
+.pager_item {
+	float:left;
+	width:auto;
+	height:auto;
+	margin:0 5px 5px 0;
+	padding:0;
+	border:none;
+	font-size:12px;
+	text-align:center;
+}
